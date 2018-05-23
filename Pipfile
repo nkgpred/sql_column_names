@@ -1,0 +1,11 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+
+url = "http://pypi01.gpredictive.de/gpredictive/default"
+verify_ssl = false
+name = "gpred"

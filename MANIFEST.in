@@ -1,0 +1,2 @@
+include versioneer.py
+include sql_column_names/_version.py
